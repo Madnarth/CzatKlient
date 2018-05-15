@@ -1,1 +1,9 @@
 E:\Dokumenty\GitHub\CzatKlient\CzatKlient\bin\Debug\CzatKlient.exe.config
+E:\Dokumenty\GitHub\CzatKlient\CzatKlient\bin\Debug\CzatKlient.exe
+E:\Dokumenty\GitHub\CzatKlient\CzatKlient\bin\Debug\CzatKlient.pdb
+E:\Dokumenty\GitHub\CzatKlient\CzatKlient\obj\Debug\CzatKlient.csprojResolveAssemblyReference.cache
+E:\Dokumenty\GitHub\CzatKlient\CzatKlient\obj\Debug\CzatKlient.Form1.resources
+E:\Dokumenty\GitHub\CzatKlient\CzatKlient\obj\Debug\CzatKlient.Properties.Resources.resources
+E:\Dokumenty\GitHub\CzatKlient\CzatKlient\obj\Debug\CzatKlient.csproj.GenerateResource.Cache
+E:\Dokumenty\GitHub\CzatKlient\CzatKlient\obj\Debug\CzatKlient.exe
+E:\Dokumenty\GitHub\CzatKlient\CzatKlient\obj\Debug\CzatKlient.pdb
